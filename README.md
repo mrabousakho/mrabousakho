@@ -2,11 +2,10 @@
 <a href="https://www.linkedin.com/in/asakho/">Connect on LinkedIn</a>
 
 A collection of accomplished threat hunts and security engineering projects built from real-world investigations.
-
-I focus on securing environments end-to-end—across endpoints, infrastructure, and networks—through device hardening, network segmentation, and attack surface reduction.
+I focus on securing environments end-to-end across endpoints, infrastructure, and networks through device hardening, 
+network segmentation, and attack surface reduction.
 
 My approach is hands-on and practical: analyzing behavior, building detection logic, and developing repeatable playbooks.
-
 I also integrate **agentic AI automation** to accelerate detection, streamline investigations, and reduce response time.
 
 ---
