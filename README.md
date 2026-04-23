@@ -15,7 +15,7 @@ reduce investigation time.
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## ⚡ Threat Hunting and Security Operations
-- **https://github.com/mrabousakho/Pacific-Financial-BEC**
+- **[Threat Hunting Scenario (Business Email Compromise)](https://github.com/mrabousakho/Pacific-Financial-BEC..-)**
 - **https://github.com/mrabousakho/Cloud_VM_Breach**
 - **https://github.com/mrabousakho/EMBERFORGE**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/mrabousakho/Threat-Hunting-Scenario-Tor-Browser-Usage..-)**
