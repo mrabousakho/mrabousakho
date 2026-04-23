@@ -1,14 +1,20 @@
 # <a href="https://www.linkedin.com/in/asakho/">Aboubacar Sakho</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+A collection of accomplished threat hunts, built from real investigations and hands-on analysis. 
+  From endpoint to infrastructure, I focus on securing systems through device hardening, network 
+segmentation, and attack surface reduction. 
+
+### I gain proficiency through real-world implementation :
+Analyzing behavior, building playbooks, and leveraging agentic AI to accelerate detection and 
+reduce investigation time.
 
 
-## ⚠️ Vulnerability Management Projects
-
+## Accomplish Projects:
+##  ⚡ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/mrabousakho/Vulnerability-Management-Project)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+## ⚡ Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/mrabousakho/Threat-Hunting-Scenario-Tor-Browser-Usage..-)**
 
